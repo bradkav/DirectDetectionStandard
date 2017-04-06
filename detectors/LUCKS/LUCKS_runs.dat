@@ -1,0 +1,4 @@
+Label    exposure      E_ROI      N obs             Events file          Efficiency file               Background file        Resolution file
+---------------------------------------------------------------------------------------------------------------------------------------------
+Run1         0.15       4-20          2                               LUX_efficiency.dat       LUX_run1_background.dat     LUX_resolution.dat
+Run2         0.30       1-20          4     LUX_run2_events.dat       LUX_efficiency.dat       LUX_run2_background.dat     LUX_resolution.dat
