@@ -21,7 +21,7 @@ More information can be found in fig.X of arXiv:XXXX.XXXXX
 ---------------------------
 This file contains a list of isotopes present in the detector, columns give Z, A and fractional abundance by weight. 
 
-*LUCKS_run.sh*
+*LUCKS_run.dat*
 ---------------------------
 This file contains a list of all LUCKS experimental runs, columns give name, exposure, number of observed events, then filenames for the relevant detector specifications.
 Run 1 was published in arXiv:XXXX.XXXXX
