@@ -1,4 +1,4 @@
-Label    exposure      E_ROI      N obs      Events file                Efficiency file            Background file               Resolution file
+Label    exposure      E_min     E_max      N_obs      Events_file                Efficiency_file            Background_file               Resolution_file
 ---------------------------------------------------------------------------------------------------------------------------------------------
-Run1         0.15       4-20          2                                 LUCKS_efficiency.dat       LUCKS_run1_background.dat     LUCKS_resolution.dat
-Run2         0.30       1-20          4      LUCKS_run2_events.dat      LUCKS_efficiency.dat       LUCKS_run2_background.dat     LUCKS_resolution.dat
+Run1         0.15       4          20          2      .                          LUCKS_efficiency.dat       LUCKS_run1_background.dat     LUCKS_resolution.dat
+Run2         0.30       1          20          4      LUCKS_run2_events.dat      LUCKS_efficiency.dat       LUCKS_run2_background.dat     LUCKS_resolution.dat
